@@ -71,7 +71,7 @@ Here is the list of tasks that this program is capable to do.
 note:it will work effectively in my pc only.
 """
 
-API_KEY = "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"
+API_KEY = "AIP key here"
 client = Groq(api_key=API_KEY)
 
 
@@ -407,4 +407,5 @@ def main(text):
  
 
    
+
   
