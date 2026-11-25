@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+pyautogui
+pillow
+groq
+deep-translator
+python-dotenv
+langchain-groq
+langchain-core
+langgraph
+google-genai
+pyperclip
